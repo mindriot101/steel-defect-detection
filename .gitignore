@@ -4,3 +4,6 @@ data
 modeldir
 sample_submission.csv
 train.csv
+*.h5
+src
+condaenv
